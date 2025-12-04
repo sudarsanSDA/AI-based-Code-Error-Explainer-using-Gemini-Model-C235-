@@ -1,0 +1,5 @@
+{
+  "name": "CodeClarify - AI Error Explainer",
+  "description": "An intelligent coding assistant that detects errors, explains them in plain English, and provides corrected code solutions using the Gemini API.",
+  "requestFramePermissions": []
+}
